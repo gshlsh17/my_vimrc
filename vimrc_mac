@@ -44,7 +44,6 @@ filetype plugin indent on
 " General Settings 基础设置
 "==========================================
 
-
 " history存储容量
 set history=2000
 
@@ -71,7 +70,6 @@ set shortmess=atI
 set nobackup
 " 关闭交换文件
 set noswapfile
-
 
 " TODO: remove this, use gundo
 " create undo file
